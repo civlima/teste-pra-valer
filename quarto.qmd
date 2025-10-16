@@ -1,6 +1,7 @@
 ---
 title: "quarto"
 author: VMML
+format: html
 ---
 
 ## Quarto
